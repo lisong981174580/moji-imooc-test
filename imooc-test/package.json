@@ -1,0 +1,17 @@
+{
+  "name": "moji-imooc-test",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "moji-imooc-test": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moji-imooc-test-lib": "^1.0.1"
+  }
+}
