@@ -12,6 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moji-imooc-test-lib": "^1.0.1"
+    "dedent": "^0.7.0",
+    "moji-imooc-test-lib": "^1.0.1",
+    "npmlog": "^6.0.0",
+    "yargs": "^17.2.1"
   }
 }
